@@ -1,0 +1,49 @@
+C:\Users\antik\source\repos\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\antik\source\repos\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\antik\source\repos\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\antik\source\repos\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\antik\source\repos\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\antik\source\repos\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\antik\source\repos\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\antik\source\repos\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\antik\source\repos\lab2\lab2\obj\Debug\lab2.pdb
+C:\Users\antik\source\repos\lab2\lab2\obj\Debug\lab2.FlatForm.resources
+C:\Users\antik\source\repos\lab2\lab2\obj\Debug\lab2.RoomForm.resources
+C:\Users\antik\source\repos\lab3\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\antik\source\repos\lab3\lab2\obj\Debug\lab2.FlatForm.resources
+C:\Users\antik\source\repos\lab3\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\antik\source\repos\lab3\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\antik\source\repos\lab3\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\antik\source\repos\lab3\lab2\obj\Debug\lab2.exe
+C:\Users\antik\source\repos\lab3\lab2\obj\Debug\lab2.pdb
+C:\Users\antik\source\repos\lab3\lab2\bin\Debug\lab2.exe.config
+C:\Users\antik\source\repos\lab3\lab2\bin\Debug\lab2.exe
+C:\Users\antik\source\repos\lab3\lab2\bin\Debug\lab2.pdb
+C:\Users\antik\source\repos\lab3\lab2\obj\Debug\lab2.District.resources
+C:\Users\antik\source\repos\lab3\lab2\obj\Debug\lab2.SearchForm.resources
+D:\2 курс\ООП Пацей 4 сем\lab3(2)\lab2\bin\Debug\lab2.exe.config
+D:\2 курс\ООП Пацей 4 сем\lab3(2)\lab2\bin\Debug\lab2.exe
+D:\2 курс\ООП Пацей 4 сем\lab3(2)\lab2\bin\Debug\lab2.pdb
+D:\2 курс\ООП Пацей 4 сем\lab3(2)\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\2 курс\ООП Пацей 4 сем\lab3(2)\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\ООП Пацей 4 сем\lab3(2)\lab2\obj\Debug\lab2.District.resources
+D:\2 курс\ООП Пацей 4 сем\lab3(2)\lab2\obj\Debug\lab2.FlatForm.resources
+D:\2 курс\ООП Пацей 4 сем\lab3(2)\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\2 курс\ООП Пацей 4 сем\lab3(2)\lab2\obj\Debug\lab2.SearchForm.resources
+D:\2 курс\ООП Пацей 4 сем\lab3(2)\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\2 курс\ООП Пацей 4 сем\lab3(2)\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП Пацей 4 сем\lab3(2)\lab2\obj\Debug\lab2.exe
+D:\2 курс\ООП Пацей 4 сем\lab3(2)\lab2\obj\Debug\lab2.pdb
+D:\2 курс\ООП Пацей 4 сем\lab3\lab2\bin\Debug\lab2.exe.config
+D:\2 курс\ООП Пацей 4 сем\lab3\lab2\bin\Debug\lab2.exe
+D:\2 курс\ООП Пацей 4 сем\lab3\lab2\bin\Debug\lab2.pdb
+D:\2 курс\ООП Пацей 4 сем\lab3\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\2 курс\ООП Пацей 4 сем\lab3\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\ООП Пацей 4 сем\lab3\lab2\obj\Debug\lab2.District.resources
+D:\2 курс\ООП Пацей 4 сем\lab3\lab2\obj\Debug\lab2.FlatForm.resources
+D:\2 курс\ООП Пацей 4 сем\lab3\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\2 курс\ООП Пацей 4 сем\lab3\lab2\obj\Debug\lab2.SearchForm.resources
+D:\2 курс\ООП Пацей 4 сем\lab3\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\2 курс\ООП Пацей 4 сем\lab3\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП Пацей 4 сем\lab3\lab2\obj\Debug\lab2.exe
+D:\2 курс\ООП Пацей 4 сем\lab3\lab2\obj\Debug\lab2.pdb

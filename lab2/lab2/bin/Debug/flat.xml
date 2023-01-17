@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<flat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="lab2">
+  <footage>65</footage>
+  <Year_of_foundation>2022</Year_of_foundation>
+  <Material_of_building>Дерево</Material_of_building>
+  <Floor>1</Floor>
+  <Cost_of_flat>75061</Cost_of_flat>
+  <address>
+    <Country>Могилев</Country>
+    <District>аааааа</District>
+    <Street>уууууууу</Street>
+    <Number_of_house>23</Number_of_house>
+    <Number_of_flat>45</Number_of_flat>
+  </address>
+</flat>
